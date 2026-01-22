@@ -1,5 +1,6 @@
 package com.microservices1.config;
 
+// this is the configuraton file in which we defined that which url is access bu the whom?
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
